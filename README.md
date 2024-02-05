@@ -2,7 +2,7 @@
 
 ## Clone da página principal do Spotify 
 
-### - (link da página)
+### https://renanciarlo.github.io/Projeto-Spotify/
 
 Esse projeto foi desenvolvido com o suporte do pessoal da Alura, onde teve a incrível Imersão Front-end.
 
